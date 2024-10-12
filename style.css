@@ -18,6 +18,9 @@ html {
 p {
     color: rgb(85, 85, 85);
 }
+.icon{
+    border-radius: 50%;
+}
 
 /* TRANSITION */
 
@@ -284,7 +287,7 @@ section {
 }
 
 .about-pic {
-    border-radius: 2rem;
+    border-radius: 50%;
 }
 
 .arrow {
